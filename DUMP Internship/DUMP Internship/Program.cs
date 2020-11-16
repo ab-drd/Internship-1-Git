@@ -11,6 +11,7 @@ namespace DUMP_Internship
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("drugi commit");
         }
     }
 }
